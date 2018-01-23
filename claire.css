@@ -1,0 +1,38 @@
+.mercie
+		li{
+			display:inline;
+			width:70;
+		}
+		ul li{float:right;
+			padding: 20px;}
+a:hover{background-color:#dbde54;} 
+#cat1{text-align:center;
+font-size:15px;
+margin-right:400px;
+margin-left:400px;}
+
+#cat2{font-size:15px;
+	column-count:3;
+	column-rule:3px; 
+	column-gap:8px;
+ 
+}
+#image{
+	margin-left:400px;
+	margin-right:400px;
+
+}
+#open{
+	text-align:left;
+}
+#footer{background-color:#776e79bd;
+	height:40px;
+	font-size: 25pt;
+}
+
+.mercie{
+	background-color:pink;
+	width: 100%;
+	height: 80px;
+
+}
